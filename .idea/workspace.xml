@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7c69b9c3-0f21-4a58-89eb-0c5f3b275be7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -102,24 +101,24 @@
       <option name="presentableId" value="Default" />
       <updated>1523966524129</updated>
       <workItem from="1523966525482" duration="7956000" />
-      <workItem from="1524129941335" duration="998000" />
+      <workItem from="1524129941335" duration="2275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8954000" />
+    <option name="totallyTimeSpent" value="10231000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="4" sideWeight="0.4989339" visible="true" weight="0.3286638" />
+      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.4989339" visible="true" weight="0.3286638" />
       <window_info anchor="bottom" id="Run" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.3286638" />
